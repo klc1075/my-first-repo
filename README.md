@@ -1,30 +1,27 @@
-# This is a large heading
+# Kacy Chisom
 
-## This is a smaller heading
+## A different kind of man
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I moved to a new state with 1yr old twin girls and raised them myself.
+I had no friends and no family here
+I had a low income job 
+I bust my ass for my kids so they can become outstanding women
 
-- This is
-- an unordered
-- list
+My favorite women are
 
-1. This is
-2. an ordered
-3. list
+- My mother
+- My daughters
+- My girlfriend
 
-Here is `some code` in the middle of a sentence.
+When they get done with school
 
-```
-This is
-a block
-of code
-```
+1. I want to travel
+2. I want to work for myself
+3. I want to live happily ever after with Nichole by my side 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Some days i want to punch peolpe in the face and call them on their bs
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
+They will try to break you but knowing you can break their face will always back them of and give you peace of mind.
 
 nano README.md
